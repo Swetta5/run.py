@@ -7,7 +7,7 @@
    "metadata": {
     "panel-layout": {
      "height": 1018,
-     "visible": true,
+     "visible": True,
      "width": 100
     }
    },
